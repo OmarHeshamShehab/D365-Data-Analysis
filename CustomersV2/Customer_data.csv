@@ -1,0 +1,329 @@
+CustomerAccount,OrganizationName,CustomerGroupId,SalesCurrencyCode,PaymentTerms,CreditLimit,PaymentUseCashDiscount,TaxExemptNumber,IsOneTimeCustomer,SalesTaxGroup,WarehouseId,DeliveryAddressCity,DeliveryAddressState,DeliveryAddressZipCode,PrimaryContactEmail,PrimaryContactPhone
+US_SI_0002,Active Transport Inc.,20,USD,Net30,0,Normal,,No,WA,,,,,,
+US_SI_0003,Alpine Ski House,20,USD,Net30,0,Normal,,No,WA,,,,,,
+US_SI_0062,Brakes and Gears,20,USD,Net30,0,Normal,,No,UT,,,,,,
+US_SI_0063,Catalog Store,20,USD,Net30,0,Normal,,No,MI,,,,,,
+US_SI_0064,Central Discount Store,20,USD,Net30,0,Normal,,No,WA,,,,,,
+US_SI_0065,Certified Bicycle Supply,20,USD,Net30,0,Normal,,No,WA,,,,,,
+US_SI_0066,Chic Department Stores,20,USD,Net30,0,Normal,,No,TX,,,,,,
+US_SI_0067,Closeout Boutique,20,USD,Net30,0,Normal,,No,WA,,,,,,
+US_SI_0068,Consolidated Sales,20,USD,Net30,0,Normal,,No,CO,,,,,,
+US_SI_0069,Convenient Sales and Service,20,USD,Net30,0,Normal,,No,OR,,,,,,
+US_SI_0070,Demand Distributors,20,USD,Net30,0,Normal,,No,WA,,,,,,
+US_SI_0071,Designer Department Stores,20,USD,Net30,0,Normal,,No,TX,,,,,,
+US_SI_0072,eCommerce Bikes,20,USD,Net30,0,Normal,,No,MA,,,,,,
+US_SI_0073,"Fabrikam Inc., West",20,USD,Net30,0,Normal,,No,MI,,,,,,
+US_SI_0074,Family Entertainment Center,20,USD,Net30,0,Normal,,No,OR,,,,,,
+US_SI_0075,Fashionable Department Stores,20,USD,Net30,0,Normal,,No,NY,,,,,,
+US_SI_0076,Finish and Sealant Products,20,USD,Net30,0,Normal,,No,CA,,,,,,
+US_SI_0077,Functional Store North,20,USD,Net30,0,Normal,,No,FL,,,,,,
+US_SI_0078,Global Sporting Goods,20,USD,Net30,0,Normal,,No,TX,,,,,,
+US_SI_0079,Honest Repair Service,20,USD,Net30,0,Normal,,No,WA,,,,,,
+US_SI_0080,Immense Manufacturing Company,20,USD,Net30,0,Normal,,No,MD,,,,,,
+US_SI_0081,Leather and Vinyl Manufacturing,20,USD,Net30,0,Normal,,No,IL,,,,,,
+US_SI_0082,Locks Company,20,USD,Net30,0,Normal,,No,CA,,,,,,
+US_SI_0083,Lubricant and Grease Suppliers,20,USD,Net30,0,Normal,,No,NV,,,,,,
+US_SI_0084,Mechanical Products Ltd.,20,USD,Net30,0,Normal,,No,CA,,,,,,
+US_SI_0085,Mechanical Sports Center,20,USD,Net30,0,Normal,,No,OH,,,,,,
+US_SI_0086,Metallic Paint and Overcoat Co,20,USD,Net30,0,Normal,,No,CA,,,,,,
+US_SI_0087,Metropolitan Manufacturing,20,USD,Net30,0,Normal,,No,CA,,,,,,
+US_SI_0088,Noiseless Gear Company,20,USD,Net30,0,Normal,,No,GA,,,,,,
+US_SI_0089,Nonskid Tire Company,20,USD,Net30,0,Normal,,No,NY,,,,,,
+US_SI_0090,Number 1 Supply,20,USD,Net30,0,Normal,,No,CA,,,,,,
+US_SI_0091,Paints and Solvents Company,20,USD,Net30,0,Normal,,No,CO,,,,,,
+US_SI_0092,Parts Shop,20,USD,Net30,0,Normal,,No,GA,,,,,,
+US_SI_0093,Qualified Sales and Repair Services,20,USD,Net30,0,Normal,,No,GA,,,,,,
+US_SI_0094,Quitting Business Distributors,20,USD,Net30,0,Normal,,No,FL,,,,,,
+US_SI_0095,Rally Master Company Inc,20,USD,Net30,0,Normal,,No,DC,,,,,,
+US_SI_0096,Raw Materials Inc,20,USD,Net30,0,Normal,,No,WA,,,,,,
+US_SI_0097,Recreation Systems,20,USD,Net30,0,Normal,,No,ID,,,,,,
+US_SI_0098,Retail Sporting Equipment,20,USD,Net30,0,Normal,,No,CO,,,,,,
+US_SI_0099,Retirement Activities Association,20,USD,Net30,0,Normal,,No,GA,,,,,,
+US_SI_0100,Retread Tire Company,20,USD,Net30,0,Normal,,No,GA,,,,,,
+US_SI_0101,Rural Department Store,20,USD,Net30,0,Normal,,No,CA,,,,,,
+US_SI_0102,Satin Finish Company,20,USD,Net30,0,Normal,,No,TX,,,,,,
+US_SI_0103,Security Racks and Locks Wholesalers,20,USD,Net30,0,Normal,,No,MN,,,,,,
+US_SI_0104,Sensational Discount Store,20,USD,Net30,0,Normal,,No,NY,,,,,,
+US_SI_0105,Sheet Metal Manufacturing,20,USD,Net30,0,Normal,,No,TX,,,,,,
+US_SI_0106,Spoke Manufacturers,20,USD,Net30,0,Normal,,No,FL,,,,,,
+US_SI_0107,Stylish Department Stores,20,USD,Net30,0,Normal,,No,FL,,,,,,
+US_SI_0108,Synthetic Materials Manufacturing,20,USD,Net30,0,Normal,,No,WA,,,,,,
+US_SI_0109,Systematic Sales,20,USD,Net30,0,Normal,,No,PA,,,,,,
+US_SI_0110,Technical Parts Manufacturing,20,USD,Net30,0,Normal,,No,CA,,,,,,
+US_SI_0111,Tire Company,20,USD,Net30,0,Normal,,No,TN,,,,,,
+US_SI_0112,Town Industries,20,USD,Net30,0,Normal,,No,TX,,,,,,
+US_SI_0113,Traditional Department Stores,20,USD,Net30,0,Normal,,No,NY,,,,,,
+US_SI_0114,Trendy Department Stores,20,USD,Net30,0,Normal,,No,CA,,,,,,
+US_SI_0115,Underglaze and Finish Company,20,USD,Net30,0,Normal,,No,CO,,,,,,
+US_SI_0116,Village Tours,20,USD,Net30,0,Normal,,No,MD,,,,,,
+US_SI_0117,Wingtip Toys,20,USD,Net30,0,Normal,,No,WA,,,,,,
+US_SI_0118,Work and Play Association,20,USD,Net30,0,Normal,,No,MI,,,,,,
+US_SI_0119,Worthwhile Activity Store,20,USD,Net30,0,Normal,,No,FL,,,,,,
+DE-001,Contoso Europe,90,EUR,Net10,0,Normal,998765,No,EXMPT FOR,,Berlin,BE,10115,contoso.europe@vendor8.consolidatedmessenger.com,01234 56789
+US-001,Contoso Retail San Diego,30,USD,Net10,500000,Normal,35-12345,No,CA,,San Diego,CA,92114,Contoso.Retail.San.Diego@customer60.consolidatedmessenger.com,321-555-0160
+US-002,Contoso Retail Los Angeles,30,USD,Net10,500000,Normal,,No,CA,,Pasadena,CA,91103,contoso.retail.los.angeles@customer62.consolidatedmessenger.com,123-555-0111
+US-003,Forest Wholesales,10,USD,Net45,400000,Normal,,No,CA,24,Los Angeles,CA,90004,,123-555-0159
+US-004,Cave Wholesales,10,USD,Net45,250000,Normal,,No,GA,,Abbeville,GA,31001,,123-555-0161
+US-005,Contoso Retail Seattle,30,USD,Net10,250000,Normal,,No,WA,,Seattle,WA,98104,Contoso.seattle@hotmail.com,123-555-0172
+DE-010,A.Datum Corporation,20,EUR,Net30,0,Normal,,No,AR-DOM,,Kiel,SH,24103,,01234 567890
+DE-011,Northwind Traders,10,EUR,Net30,0,Normal,,No,AR-DOM,,Mainz,RP,55116,,01234 567890
+US-006,Contoso Retail Portland,10,USD,Net10,250000,Normal,,No,OR,,Portland,OR,97217,contoso.portland@contoso.com,123-555-0112
+US-007,Desert Wholesales,30,USD,Net45,400000,Normal,,No,NV,,Boulder City,NV,89005,,123-555-0162
+US-008,Sparrow Retail,30,USD,Net45,20000,Normal,,No,NV,,Alamo,NV,89001,,123-555-0163
+US-009,Owl Wholesales,10,USD,Net45,1000000,Normal,35-12345,No,No-Tax,,Phoenix,CO,85003,,123-555-0164
+US-010,Sunset Wholesales,10,USD,Net45,400000,Normal,,No,TX,,Artesia Wells,TX,78001,,123-555-0160
+US-011,Contoso Retail Dallas,30,USD,Net10,400000,Normal,,No,TX,,Irving,TX,75063,,123-555-0117
+US-012,Contoso Retail New York,30,USD,Net10,400000,Normal,,No,NY,,New York,NY,10006,,123-555-0116
+US-013,Pelican Wholesales,10,USD,Net45,500000,Normal,,No,NY,,New York,NY,10002,,123-555-0165
+US-028,Contoso Retail Miami,30,USD,Net10,100000,Normal,,No,FL,,Miami,FL,33126,,123-555-0184
+US-027,Birch Company,30,USD,Net10,100000,Normal,991234,No,No-Tax,,Cleveland,AL,35049,,111-555-0113
+US-026,Maple Company,10,USD,Net30,100000,Normal,994321,No,No-Tax,,Blue Mountain,MA,38610,,123-555-0155
+US-025,Oak Company,30,USD,Net30,100100,Normal,998765,No,No-Tax,,,,,,123-555-0157
+US-024,Yellow Square,10,USD,Net30,250000,Normal,,No,OH,,Cable,OH,43009,,123-555-0163
+US-040,Contoso Retail USA,100,USD,Net10,500000,Normal,35-12345,No,No-Tax,,Seattle,WA,98184,,123-555-0199
+US-014,Grebe Wholesales,30,USD,Net45,250000,Normal,994321,No,No-Tax,,Little Rock,FL,93543,,123-555-0180
+US-015,Contoso Retail Chicago,30,USD,Net10,100000,Normal,,No,IL,,Arlington Heights,IL,60004,,123-555-0187
+US-016,Whale Wholesales,10,USD,Net30,250000,Normal,,No,IL,,Barrington,IL,60010,,123-555-0167
+US-017,Turtle Wholesales,10,USD,Net45,0,Normal,991234,No,No-Tax,,,,,,123-555-0168
+US-018,Contoso Retail Detroit,30,USD,Net10,350000,Normal,,No,MI,,Madison Heights,MI,48071,,123-555-0119
+US-019,Sunflower Wholesales,10,USD,Net30,250000,Normal,,No,GA,,Alpharetta,GA,30004,,123-555-0144
+US-020,Orchid Shopping,30,USD,Net10,250000,Normal,,No,GA,,Clarkston,GA,30021,,123-555-0146
+US-021,Otter Wholesales,10,USD,COD,250000,Normal,998765,No,No-Tax,,Bishopville,TN,29010,,123-555-0170
+US-022,Contoso Retail Virginia,30,USD,Net10,150000,Normal,998765,No,No-Tax,,Dulles,VA,20102,,123-555-0115
+US-023,Shrike Retail,30,USD,Net45,250000,Normal,,No,PA,,Bethlehem,PA,18018,,123-555-0169
+DE-016,Southridge Video,30,EUR,Net10,200000,Normal,DE9012,No,AR-DOM,,Kiel,SH,24103,,01234 567890
+DE-015,Adventure Works,10,EUR,COD,150000,Normal,,No,AR-EU,,Rome,,11111,,987-555-0125
+DE-014,World Wide Importers,20,EUR,Net30,0,Normal,DE9801,No,AR-DOM,,Kassel,,65432,,01234 567890
+DE-013,Trey Wholesales,10,GBP,Net45,0,Normal,,No,AR-EU,,London,EN,EC1A,,1234-555-0141
+DE-012,Litware Retail,30,EUR,COD,0,Normal,,No,AR-EU,,Montpellier,LR,34070,,1234-555-0151
+1001,Basketball Stadium,20,USD,Net30,0,Normal,,No,No-Tax,DC-CENTRAL,,,,basketball.stadium@customer35.consolidatedmessenger.com,987-555-0145
+1002,Football Stadium,20,USD,Net30,0,Normal,,No,OH,,,,,,412-555-0144
+1003,Hockey Stadium,20,USD,Net30,0,Normal,,No,No-Tax,DC-CENTRAL,,,,,987-555-0134
+1004,Tennis Stadium,20,USD,Net30,0,Normal,,No,TX,DC-CENTRAL,,,,,123-555-0148
+3001,Contoso Retail San Diego,30,USD,Net10,0,Normal,35-12345,No,Resale,DC-WEST,San Diego,CA,92114,Contoso.Retail.San.Diego@customer60.consolidatedmessenger.com,321-555-0160
+3002,Contoso Retail Seattle,30,USD,Net10,0,Normal,,No,GA,DC-WEST,Seattle,WA,98104,Contoso.seattle@hotmail.com,123-555-0172
+2001,Karen Berg,30,USD,Net10,1500,Normal,,No,WA,DC-WEST,,,,karenb@contoso.com,
+2002,Mary Kay Andersen,30,USD,Net10,0,Normal,,No,WA,DC-WEST,,,,marykay@contoso.com,206-555-5602
+2003,Stuart Railson,30,USD,Net10,0,Normal,,No,CA,DC-WEST,,,,StuartR@contoso.com,415 555-5279
+2004,Mark Alexieff,30,USD,Net10,0,Normal,,No,NY,DC-EAST,,,,Mark.Alex@outlook.com,212-555-0123
+2005,Shu Ito,30,USD,Net10,0,Normal,,No,CA,DC-WEST,,,,ShuI@contoso.com,415 555-5202
+3003,Contoso Retail Los Angeles,30,USD,Net10,0,Normal,,No,FL,DC-WEST,Pasadena,CA,91103,contoso.retail.los.angeles@customer62.consolidatedmessenger.com,123-555-0111
+3004,Contoso Retail Portland,30,USD,Net10,0,Normal,35-12345,No,Resale,DC-WEST,Portland,OR,97217,contoso.portland@contoso.com,123-555-0112
+3005,Contoso Retail Miami,30,USD,Net10,0,Normal,,No,IA,DC-EAST,Miami,FL,33126,,123-555-0184
+3006,Contoso Retail New York,30,USD,Net10,0,Normal,35-12345,No,Resale,DC-EAST,New York,NY,10006,,123-555-0116
+3007,Contoso Retail Dallas,30,USD,Net10,0,Normal,35-12345,No,Resale,DC-CENTRAL,Irving,TX,75063,,123-555-0117
+3008,Contoso Retail Chicago,30,USD,Net10,0,Normal,,No,MA,DC-CENTRAL,Arlington Heights,IL,60004,,123-555-0187
+100001,Default Retail Customer,30,USD,Net10,0,Normal,,No,WA,DC,,,,,
+100002,Default Online Customer,30,USD,Net30,0,Normal,,No,WA,,,,,,
+JPMF-000002,五反田A商事　株式会社,CG04,JPY,COD,0,Normal,,No,,,,,,,
+JPMF-000001,野村商事,CG02,JPY,COD,0,Normal,,No,,,,,,,
+JPMF-000003,東日本医療製品会社		,CG01,JPY,COD,0,Normal,,No,,,,,,,
+JPMF-000004,コロン建築会社,CG03,JPY,COD,0,Normal,,No,,,,,,,
+JPMF-000005,井上電工株式会社,CG02,JPY,COD,0,Normal,,No,,,,,,,
+RUMF-000001,Корпорация Я.Дата ООО,Орг,RUB,N007,0,Normal,,No,НДС,,,,,,
+RUMF-000002,Звукоряд ТД,Орг,RUB,N030,0,Normal,,No,НДС,,,,,,
+RUMF-000003,Северо-западная звуковая компания ОАО,Орг,RUB,,0,Normal,,No,НДС,,,,,,
+RUMF-000004,Световое оборудование ООО,Орг,RUB,N035,0,Normal,,No,НДС,,,,,,
+RUMF-000005,Первый институт видео и звука,Орг,RUB,N007,0,Normal,,No,НДС,,,,,,
+BRMF-000002,A. Dantum Brasil Ltda,010,BRL,,0,Normal,,No,,,,,,,
+BRMF-000001,Southridge Video Brasil Ltda,010,BRL,,0,Normal,,No,,,,,,,
+CNMF-000001,灯具设计有限公司,20,CNY,,0,Normal,,No,VATGroup,,,,,,
+CNMF-000002,灯泡厂,60,CNY,,0,Normal,,No,VATGroup,,,,,,
+CNMF-000003,光辉企划有限公司,40,CNY,,0,Normal,,No,BusinesTax,,,,,,
+CNMF-000004,办公灯具有限公司,30,CNY,,0,Normal,,No,VATGroup,,,,,,
+CNMF-000005,照明专家有限公司,20,CNY,,0,Normal,,No,BusinesTax,,,,,,
+INMF-000001,Wingtip Toys India Ltd.,10,INR,N030,0,Normal,,No,,,,,,,080-35485124
+INMF-000002,Tailspin Toys India Ltd.,20,INR,N010,0,Normal,,No,,,,,,,022-78452563
+INMF-000003,Fourth Coffee India,30,INR,N010,0,Normal,,No,,,,,,,011-54875424
+INMF-000004,Wide World India Importers,80,INR,N001,0,Normal,,No,,,,,,,044-28794563
+INMF-000005,Fabrikam India Ltd.,10,INR,N030,0,Normal,,No,,,,,,,011-75463584
+BRMF-000003,Litware Brasil Ltda,020,BRL,,0,Normal,,No,,,,,,,
+BRMF-000004,Alpine Ski House Brasil Ltda,010,BRL,,0,Normal,,No,,,,,,,
+FR_SI_0001,Atypical Bike Company,20,EUR,Net15J,0,Normal,,No,,,,,,,1 (11) 500 555-0198
+FR_SI_0002,Community Department Stores,20,EUR,Net15J,0,Normal,,No,,,,,,,1 (11) 500 555-0163
+FR_SI_0003,Cycles Sales and Repair,20,EUR,Net15J,0,Normal,,No,,,,,,,405-555-0171
+FR_SI_0004,Favorite Toy Distributor,20,EUR,Net15J,0,Normal,,No,,,,,,,1 (11) 500 555-0142
+fR_SI_0005,Finished Parts Shop,20,EUR,Net15J,0,Normal,,No,,,,,,,1 (11) 500 555-0140
+fR_SI_0006,Hiatus Bike Tours,20,EUR,Net15J,0,Normal,,No,,,,,,,1 (11) 500 555-0136
+fR_SI_0007,Impervious Paint Company,20,EUR,Net15J,0,Normal,,No,,,,,,,1 (11) 500 555-0119
+FR_SI_0008,Major Amusement Company,20,EUR,Net15J,0,Normal,,No,,,,,,,1 (11) 500 555-0191
+fR_SI_0009,Metro Sports Equipment,20,EUR,Net15J,0,Normal,,No,,,,,,,1 (11) 500 555-0157
+FR_SI_0010,Metropolitan Equipment,20,EUR,Net15J,0,Normal,,No,,,,,,,1 (11) 500 555-0123
+FR_SI_0011,Perfect Toys,20,EUR,Net15J,0,Normal,,No,,,,,,,1 (11) 500 555-0132
+FR_SI_0012,Racing Store,20,EUR,Net15J,0,Normal,,No,,,,,,,1 (11) 500 555-0113
+FR_SI_0013,Racing Supply Distributors,20,EUR,Net15J,0,Normal,,No,,,,,,,1 (11) 500 555-0132
+FR_SI_0014,Registered Cycle Store,20,EUR,Net15J,0,Normal,,No,,,,,,,1 (11) 500 555-0184
+FR_SI_0015,Rural Mountain Bike Mart,20,EUR,Net15J,0,Normal,,No,,,,,,,1 (11) 500 555-0129
+FR_SI_0016,Spa and Exercise Outfitters,20,EUR,Net15J,0,Normal,,No,,,,,,,1 (11) 500 555-0191
+FR_SI_0017,Spare Parts Co.,20,EUR,Net15J,0,Normal,,No,,,,,,,1 (11) 500 555-0178
+FR_SI_0018,Sports Products Store,20,EUR,Net15J,0,Normal,,No,,,,,,,1 (11) 500 555-0180
+FR_SI_0019,Township Inn,20,EUR,Net15J,0,Normal,,No,,,,,,,1 (11) 500 555-0147
+FR_SI_0020,Wheels Inc.,20,EUR,Net15J,0,Normal,,No,,,,,,,1 (11) 500 555-0115
+US-004,Cave Wholesales,10,USD,Net45,0,Normal,,No,GA,,Abbeville,GA,31001,,123-555-0161
+US-007,Desert Wholesales,10,USD,Net45,0,Normal,,No,NV,,Boulder City,NV,89005,,123-555-0162
+US-009,Owl Wholesales,10,USD,Net45,0,Normal,,No,CO,,Phoenix,CO,85003,,123-555-0164
+US-010,Sunset Wholesales,10,USD,Net45,0,Normal,,No,TX,,Artesia Wells,TX,78001,,123-555-0160
+US-013,Pelican Wholesales,10,USD,Net45,0,Normal,,No,NY,,New York,NY,10002,,123-555-0165
+US-014,Grebe Wholesales,30,USD,Net45,0,Normal,,No,FL,,Little Rock,FL,93543,,123-555-0180
+US-016,Whale Wholesales,10,USD,Net30,0,Normal,,No,IL,,Barrington,IL,60010,,123-555-0167
+US-017,Turtle Wholesales,10,USD,Net45,0,Normal,,No,MN,,,,,,123-555-0168
+US-019,Sunflower Wholesales,10,USD,Net30,0,Normal,,No,GA,,Alpharetta,GA,30004,,123-555-0144
+US-021,Otter Wholesales,10,USD,COD,0,Normal,,No,TN,,Bishopville,TN,29010,,123-555-0170
+US-024,Yellow Square,10,USD,Net30,0,Normal,,No,OH,,Cable,OH,43009,,123-555-0163
+US-025,Oak Company,30,USD,Net30,0,Normal,,No,WA,,,,,,123-555-0157
+US-026,Maple Company,10,USD,Net30,0,Normal,,No,MA,,Blue Mountain,MA,38610,,123-555-0155
+US-027,Birch Company,30,USD,Net10,0,Normal,,No,CA,,Cleveland,AL,35049,,111-555-0113
+US_SI_0121,City Manufacturing,20,USD,Net15,0,Normal,,No,,,,,,,730-555-0117
+US_SI_0122,Contoso Consulting,20,USD,Net15,0,Normal,,No,,,,,,,
+US_SI_0123,Cycles Sales and Repair,20,USD,Net15,0,Normal,,No,,,,,,,405-555-0171
+US_SI_0124,Fun Times Club,20,USD,Net15,0,Normal,,No,,,,,,,228-555-0159
+US_SI_0125,Professional Containers and Packaging Co.,20,USD,Net15,0,Normal,,No,,,,,,,789-555-0184
+US_SI_0126,Eastside Department Store,20,USD,Net15,0,Normal,,No,,,,,,,492-555-0174
+US_SI_0127,District Mall,20,USD,Net15,0,Normal,,No,,,,,,,508-555-0129
+US_SI_0128,Alpine Electronics,20,USD,Net15,0,Normal,,No,,,,,,,
+US_SI_0129,Adventure Services,20,USD,Net15,0,Normal,,No,,,,,,,
+US_SI_0130,Riverside Company,20,USD,Net15,0,Normal,,No,,,,,,,847-555-0151
+US_SI_0131,Tough and Reliable Parts,20,USD,Net15,0,Normal,,No,,,,,,,703-555-0120
+US_SI_0132,Owl Wholesales,20,USD,Net15,0,Normal,,No,,,Phoenix,CO,85003,,123-555-0164
+US_SI_0133,Reliable Brake Systems,20,USD,Net15,0,Normal,,No,,,,,,,820-555-0166
+CNMF-000007,风格设计有限公司,40,CNY,,0,Normal,,No,VATGroup,,,,,,
+CNMF-000008,城市照明有限公司,30,CNY,,0,Normal,,No,VATGroup,,,,,,
+CNMF-000009,陶器厂,60,CNY,,0,Normal,,No,VATGroup,,,,,,
+CNMF-000010,灯具超市,20,CNY,,0,Normal,,No,VATGroup,,,,,,
+CNMF-000011,热力中心有限公司,60,CNY,,0,Normal,,No,VATGroup,,,,,,
+CNMF-000012,睿智有限公司,40,CNY,,0,Normal,,No,VATGroup,,,,,,
+CNMF-000013,锦绣大地进出口公司,60,CNY,,0,Normal,,No,VATGroup,,,,,,
+CNMF-000014,太平洋照明有限公司,60,CNY,,0,Normal,,No,VATGroup,,,,,,
+CNMF-000015,灯具总汇有限公司,20,CNY,,0,Normal,,No,VATGroup,,,,,,
+CNMF-000016,省教育局,60,CNY,,0,Normal,,No,VATGroup,,,,,,
+CNMF-000017,西部联合大学,60,CNY,,0,Normal,,No,VATGroup,,,,,,
+CNMF-000018,奥弗有限公司,50,USD,,0,Normal,,No,VATGroup,,,,,,
+CNMF-000019,内部公司,70,CNY,,0,Normal,,No,VATGroup,,,,,,
+CNMF-000020,威尔玛有限公司,50,USD,,0,Normal,,No,VATGroup,,,,,,
+CNMF-000021,雨娃有限公司,60,CNY,,0,Normal,,No,VATGroup,,,,,,
+CNMF-000022,贸易互通有限公司,60,CNY,,0,Normal,,No,VATGroup,,,,,,
+CNMF-000023,瑞斯－高德斯联合公司,50,USD,,0,Normal,,No,VATGroup,,,,,,
+CNMF-000024,家具商场,20,CNY,,0,Normal,,No,VATGroup,,,,,,
+CNMF-000025,流行家具商厦,20,CNY,,0,Normal,,No,VATGroup,,,,,,
+CNMF-000026,里科有限公司,60,CNY,,0,Normal,,No,VATGroup,,,,,,
+CNMF-000027,腾得有限公司,20,CNY,,0,Normal,,No,VATGroup,,,,,,
+CNMF-000028,小商品商贸公司,60,CNY,,0,Normal,,No,VATGroup,,,,,,
+CNMF-000029,AHH灯具有限公司,20,CNY,,0,Normal,,No,VATGroup,,,,,,
+CNMF-000030,爱姆灯具设计有限公司,20,CNY,,0,Normal,,No,VATGroup,,,,,,
+CNMF-000031,美国照明有限公司,50,USD,,0,Normal,,No,VATGroup,,,,,,
+CNMF-000032,LA电影院,20,CNY,,0,Normal,,No,VATGroup,,,,,,
+CNMF-000033,环球工贸有限公司,60,CNY,,0,Normal,,No,VATGroup,,,,,,
+CNMF-000034,灯具零件有限公司,20,CNY,,0,Normal,,No,VATGroup,,,,,,
+CNMF-000035,办公用品有限公司,20,CNY,,0,Normal,,No,VATGroup,,,,,,
+CNMF-000036,桌椅世界有限公司,20,CNY,,0,Normal,,No,VATGroup,,,,,,
+INMF-000006,Customs authority,20,INR,N010,0,Normal,,No,,,,,,,011-78452455
+FR_SI_21,Pretty Bikes and Toys,20,EUR,Net15J,0,Normal,,No,,,,,,,1 (11) 500 555-0139
+US-027,Birch Company,30,USD,Net10,0,Normal,,No,,,Cleveland,AL,35049,,111-555-0113
+US-002,Contoso Retail Los Angeles,30,USD,Net10,0,Normal,,No,CA,,Pasadena,CA,91103,contoso.retail.los.angeles@customer62.consolidatedmessenger.com,123-555-0111
+US-001,Contoso Retail San Diego,30,USD,Net10,0,Normal,,No,CA,,San Diego,CA,92114,Contoso.Retail.San.Diego@customer60.consolidatedmessenger.com,321-555-0160
+US-005,Contoso Retail Seattle,30,USD,Net10,0,Normal,,No,WA,,Seattle,WA,98104,Contoso.seattle@hotmail.com,123-555-0172
+US-020,Orchid Shopping,30,USD,Net10,0,Normal,,No,GA,,Clarkston,GA,30021,,123-555-0146
+US-031,Aroscenty,80,USD,Net10,0,Normal,,No,CA,12,,,,,111-555-4443
+US-032,Puree Squize,80,USD,Net10,0,Normal,,No,GA,12,,,,,111-555-5534
+GB_SI_001,Action Bicycle Specialists,10,GBP,Net30,0,Normal,,No,,,,,,,1 (11) 500 555-0145
+GB_SI_002,Area Sheet Metal Supply,20,GBP,Net15,0,Normal,,No,,,,,,,1 (11) 500 555-0132
+GB_SI_003,Authentic Sales and Service,20,GBP,Net15,0,Normal,,No,,,,,,,1 (11) 500 555-0150
+GB_SI_004,Bulk Discount Store,20,GBP,Net15,0,Normal,,No,,,,,,,1 (11) 500 555-0187
+GB_SI_005,Central Bicycle Specialists,20,GBP,Net15,0,Normal,,No,,,,,,,1 (11) 500 555-0113
+GB_SI_006,Channel Outlet,10,GBP,Net30,0,Normal,,No,,,,,,,1 (11) 500 555-0132
+GB_SI_007,Closest Bicycle Store,10,GBP,Net30,0,Normal,,No,,,,,,,1 (11) 500 555-0127
+GB_SI_008,Commerce Bicycle Specialists,10,GBP,Net30,0,Normal,,No,,,,,,,1 (11) 500 555-0140
+GB_SI_009,Consumer Equipment,10,GBP,Net30,0,Normal,,No,,,,,,,1 (11) 500 555-0177
+GB_SI_010,Cycles Wholesaler & Mfg.,20,GBP,Net15,0,Normal,,No,,,,,,,1 (11) 500 555-0146
+GB_SI_011,Cycling Goods,10,GBP,Net30,0,Normal,,No,,,,,,,1 (11) 500 555-0122
+GB_SI_012,Downhill Bicycle Specialists,10,GBP,Net30,0,Normal,,No,,,,,,,1 (11) 500 555-0183
+GB_SI_013,Essential Bike Works,10,GBP,Net30,0,Normal,,No,,,,,,,1 (11) 500 555-0122
+GB_SI_014,Exceptional Cycle Services,20,GBP,Net15,0,Normal,,No,,,,,,,1 (11) 500 555-0190
+GB_SI_015,Exclusive Bicycle Mart,20,GBP,Net15,0,Normal,,No,,,,,,,1 (11) 500 555-0140
+GB_SI_016,Exhibition Showroom,30,GBP,Net15,0,Normal,,No,,,,,,,1 (11) 500 555-0120
+GB_SI_017,Express Bike Services,10,GBP,Net30,0,Normal,,No,,,,,,,1 (11) 500 555-0191
+GB_SI_018,Extended Tours,30,GBP,Net15,0,Normal,,No,,,,,,,1 (11) 500 555-0178
+GB_SI_019,Instruments and Parts Company,20,GBP,Net15,0,Normal,,No,,,,,,,1 (11) 500 555-0181
+GB_SI_020,Leisure Clearing House,30,GBP,Net15,0,Normal,,No,,,,,,,1 (11) 500 555-0191
+GB_SI_021,Little Sports Center,10,GBP,Net30,0,Normal,,No,,,,,,,1 (11) 500 555-0112
+GB_SI_022,Mail Market,30,GBP,Net15,0,Normal,,No,,,,,,,1 (11) 500 555-0167
+GB_SI_023,Metro Metals Co.,30,GBP,Net15,0,Normal,,No,,,,,,,1 (11) 500 555-0144
+GB_SI_024,Metropolitan Bicycle Supply,10,GBP,Net30,0,Normal,,No,,,,,,,1 (11) 500 555-0181
+GB_SI_025,Nearby Cycle Shop,20,GBP,Net15,0,Normal,,No,,,,,,,1 (11) 500 555-0146
+GB_SI_026,Number One Bike Co.,10,GBP,Net30,0,Normal,,No,,,,,,,1 (11) 500 555-0187
+GB_SI_027,Oils and Fluids Warehouse,30,GBP,Net15,0,Normal,,No,,,,,,,1 (11) 500 555-0186
+GB_SI_028,Outdoor Aerobic Systems Company,20,GBP,Net15,0,Normal,,No,,,,,,,1 (11) 500 555-0140
+GB_SI_029,Prosperous Tours,30,GBP,Net15,0,Normal,,No,,,,,,,1 (11) 500 555-0168
+GB_SI_030,Rampart Amusement Company,30,GBP,Net15,0,Normal,,No,,,,,,,1 (11) 500 555-0163
+GB_SI_031,Riding Cycles,10,GBP,Net30,0,Normal,,No,,,,,,,1 (11) 500 555-0122
+GB_SI_032,Shipping Specialists,10,GBP,Net30,0,Normal,,No,,,,,,,1 (11) 500 555-0120
+GB_SI_033,Sports Store,30,GBP,Net15,0,Normal,,No,,,,,,,1 (11) 500 555-0181
+GB_SI_034,Tachometers and Accessories,30,GBP,Net15,0,Normal,,No,,,,,,,1 (11) 500 555-0176
+GB_SI_035,Tubeless Tire Company,30,GBP,Net15,0,Normal,,No,,,,,,,1 (11) 500 555-0148
+GB_SI_036,Uttermost Bike Shop,10,GBP,Net30,0,Normal,,No,,,,,,,1 (11) 500 555-0193
+GB_SI_037,Variety Cycling,30,GBP,Net15,0,Normal,,No,,,,,,,1 (11) 500 555-0153
+GB_SI_038,Vigorous Sports Store,20,GBP,Net15,0,Normal,,No,,,,,,,1 (11) 500 555-0176
+GB_SI_039,West Side Mart,10,GBP,Net30,0,Normal,,No,,,,,,,1 (11) 500 555-0136
+100001,Client par défaut,30,EUR,Net 10,0,Normal,,No,VE-DOM,DC-FRRT,,,,,
+1001,Terrain de basket,20,EUR,Net 30,0,Normal,,No,VE-DOM,DC-FRRT,,,,,1 (11) 500 555-0198
+1002,Stade de football,20,EUR,Net 30,0,Normal,,No,VE-DOM,DC-FRRT,,,,,1 (11) 500 555-0163
+1003,Terrain de hockey,20,EUR,Net 30,0,Normal,,No,VE-DOM,DC-FRRT,,,,,1 (11) 500 555-0179
+1004,Court de Tennis,20,EUR,Net 30,0,Normal,,No,VE-DOM,DC-FRRT,,,,,1 (11) 500 555-0142
+2001,Fabrice Canel,30,EUR,Net 10,0,Normal,,No,VE-DOM,DC-FRRT,,,,FabriceC@contoso.com,+40 09 98 43 21
+2002,Myriam Delesalle,30,EUR,Net 10,0,Normal,,No,VE-DOM,DC-FRRT,,,,,1 (11) 500 555-0140
+2003,Gregory Olivier,30,EUR,Net 10,0,Normal,,No,VE-DOM,DC-FRRT,,,,,1 (11) 500 555-0136
+2004,Isabelle Scemla,30,EUR,Net 10,0,Normal,,No,VE-DOM,DC-FRRT,,,,,1 (11) 500 555-0119
+4001,Contoso Retail FR,90,USD,Net10,0,Normal,FR900099600,No,EXEMPTFOR,,,,,,
+US_SI_0134,Contoso Consulting FR,50,USD,Net10,0,Normal,,No,,,,,,,
+US_SI_0135,Contoso Consulting GB,50,USD,Net10,0,Normal,,No,,,,,,,
+100003,Default Call center Customer,30,USD,Net30,0,Normal,,No,WA,DC-WEST,,WA,,,
+RURT-000001,Клиент по умолчанию,Физик,RUB,,0,Normal,,No,НДС,Москва,,,,,
+INMF-000007,Retail Customer,30,INR,N010,0,Normal,,No,,,,,,,080-24578964
+RURT-000002,Олег Евгеньевич Зубарев,Физик,RUB,,0,Normal,,No,НДС,,,,,,
+RURT-000003,Мария Сергеевна Иванова,Физик,RUB,,0,Normal,,No,НДС,,,,,,
+RURT-000004,Эльвира Ивановна Белова,Физик,RUB,,0,Normal,,No,НДС,,,,,,
+MXMP-000001,Graphic Design Institute,010,MXN,15D,0,Normal,,No,,,,,,arc@graphicdesingI.com,
+MXMP-000002,Coho Vineyard & Winery,010,MXN,30D,0,Normal,,No,,,,,,,
+MXMP-000003,School of Fine Art,010,MXN,15D,0,Normal,,No,,,,,,,
+MXMP-000004,Contoso S.A. Argentina,020,MXN,30D,0,Normal,,No,,,,,,,
+MXMP-000005,Trey Research,010,MXN,15D,0,Normal,,No,,,,,,,
+Contoso-FRRT,Contoso-FRRT,90,EUR,Net10,0,Normal,,No,,,,,,,
+MY-001,Royal Orchid,10,MYR,,500000,Normal,,No,,,,,,,459-7896-944
+MY-002,Sunflower Wholesales,30,MYR,,0,Normal,,No,,,,,,,689-5467-333
+MY-003,Orchid shoppers,20,USD,,0,Normal,,No,,,,,,,699-8796-545
+MY-004,Otter Wholesales,10,MYR,,0,Normal,,No,,,,,,,546-8796-222
+US-041,Dolphin Wholesale,10,USD,Net30,10,Normal,,No,,,,,,contact@DolphinWholesale.com,
+004003,Mara Gentry,30,USD,Net10,0,Normal,,No,OR,DC-WEST,Oakland,CA,94115,Mara.Gentry@outlook.com,
+004005,Eve Whitehead,30,USD,Net10,0,Normal,,No,IL,DC-CENTRAL,Redmond,WA,98007,,
+004007,Owen  Tolley,30,USD,Net10,0,Normal,,No,CALA,DC-WEST,Tampa,FL,33601,,
+004009,Mathew Tolley,30,USD,Net10,0,Normal,,No,CA,DC-WEST,Alameda,CA,94115,,
+004011,Jennifer Beach,30,USD,Net10,0,Normal,,No,OH,DC-WEST,Redmond,WA,98007,,
+004013,Shelly Beach,30,USD,Net10,0,Normal,,No,MD,DC-EAST,Renton,WA,98115,hsmith@contoso.com,206-555-5011
+004015,Cameron Hartnett,30,USD,Net10,0,Normal,,No,NY,DC-EAST,,,,cameron@contoso.com,
+004017,Percy Hartnett,30,USD,Net10,0,Normal,,No,MA,DC-EAST,Warroad,MN,56763,,251-555-1234
+004019,Christopher Gooding,30,USD,Net10,0,Normal,,No,FL,,,,,christopher@contoso.com,561-555-1212
+BRMF-000005,Filial de Serviços,010,BRL,,0,Normal,,No,,,,,,,
+SAMF-000001,Orchid SA shoppers,30,USD,,0,Normal,,No,,,,,,,+1 045 56978455
+SAMF-000002,Saudi Oger,10,SAR,,0,Normal,,No,,,,,,,+966 14 578 69875
+SAMF-000003,Zamil Steel Holding,20,SAR,,0,Normal,,No,,,,,,,+966 13 578 69875
+SAMF-000004,Saudi Aramco,20,SAR,,0,Normal,,No,,,,,,,+966 12 653 87415
+THMF-000001,Royal Orchid TH,10,THB,,0,Normal,,No,,,,,,,+66 65 789 65478
+THMF-000002,Sunflower Wholesales TH,10,THB,,0,Normal,,No,,,,,,,+66 2 985 65478
+THMF-000003,Indorama Ventures,10,THB,,0,Normal,,No,,,,,,,+66 2 454 66589
+THMF-000004,Liberty Brass Turning CO,20,USD,,0,Normal,,No,,,,,,,+1 045 98654786
+ITCO-000001,Customer Domestic,STD,EUR,30-60,0,Normal,86334519757,No,IT_DOM,,,,,CustDom@Contoso.com,+393479115555
+ITCO-000002,Customer EU,STD,EUR,,0,Normal,,No,IT_DOM,,,,,,
+ITCO-000003,SEPADirectDebitCustomer,STD,EUR,,0,Normal,,No,IT_DOM,,,,,,
+ITCO-000004,Customer PA,STD,EUR,PA_INVDATE,0,Normal,,No,IT_PA,,,,,,
+US-103,Rain Projectors,10,USD,Net30,0,Normal,,No,,,,,,,444-555-0110
+GBPM-000001,Contoso Robotics USA,50,GBP,,0,Normal,,No,AR-EU,,,,,,
+USPM-000001,Contoso Robotics UK,50,USD,,0,Normal,,No,,,,,,beatriz@contoso.com,425-555-9017
+004021,Fabrikam B2B,30,USD,Net10,5000,Normal,,No,WA,,,,,shanewilsonb2b@gmail.com,
+004023,Shane Wilson,30,USD,Net10,2000,Normal,,No,,,,,,shanewilsonb2b@gmail.com,
+004025,Adriana Smith,30,USD,Net10,1000,Normal,,No,,,,,,shoppingapp.test@gmail.com,
+004047,Customer No_credit,30,USD,Net10,0,Normal,,No,,,,,,,
+004050,Customer Some_credit,30,USD,Net10,1000,Normal,,No,,,,,,,
+004052,Customer Large_credit,30,USD,Net10,10000000,Normal,,No,,,,,,,
+004053,Customer_InvoiceAccount,30,USD,Net10,5000,Normal,,No,,,,,,,
+004055,Customer NoCredit_InvoiceAccount,30,USD,Net10,0,Normal,,No,,,,,,,
+004071,Contoso B2B,30,USD,Net10,0,Normal,,No,,,,,,,
