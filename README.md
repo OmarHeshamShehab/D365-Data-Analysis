@@ -25,9 +25,9 @@ Evaluates model performance using accuracy scores, classification reports, and c
 ### File Structure:
 #### Authentication.py:
 Contains the functions to authenticate and retrieve access tokens from D365.
-#### Data_Extraction.py: 
+#### Retrieve_Customer_Data.py.py: 
 Script responsible for making API requests to D365 and saving the customer data in CSV format.
-#### Data_Analysis.py:
+#### Exploratory_Data_Analysis_Customers.ipynb:
 Includes the machine learning pipeline that preprocesses the data and performs logistic regression classification.
 #### .env: 
 Environment file containing sensitive information such as LOGIN_URL, CLIENT_ID, CLIENT_SECRET, etc.
