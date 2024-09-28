@@ -22,7 +22,7 @@ Customer_Entity = RESOURCE + "/data/CustomersV2/?cross-company=true"
 
 
 # Path to the exported PEM file
-pem_file_path = r'C:\Dynamics365Commerce\D365-Data-Analysis\d365-cert.pem'
+pem_file_path = os.getenv(r'CERT_PATH')
 
 # Make the request using the certificate and correct authorization header
 response = requests.get(Customer_Entity, headers={'Authorization': bearer}, verify=pem_file_path)

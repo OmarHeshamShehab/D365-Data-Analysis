@@ -2,7 +2,8 @@ import os
 import requests
 import pandas as pd
 import sys
-sys.path.append('C:\Dynamics365Commerce\D365-Data-Analysis')
+
+sys.path.append("C:\Dynamics365Commerce\D365-Data-Analysis")
 from Authentication import get_access_token
 from dotenv import load_dotenv
 
@@ -21,8 +22,8 @@ PO_V2 = RESOURCE + "/data/PurchaseOrderHeadersV2/?cross-company=true"
 
 
 # Path to the exported PEM file
-pem_file_path = r"C:\Dynamics365Commerce\D365-Data-Analysis\d365-cert.pem"
 
+pem_file_path = os.getenv(r"CERT_PATH")
 # Make the request using the certificate and correct authorization header
 response = requests.get(PO_V2, headers={"Authorization": bearer}, verify=pem_file_path)
 
@@ -191,7 +192,9 @@ print(df)
 df = pd.DataFrame(extracted_data)
 
 # Save the DataFrame to a CSV file
-csv_file_path = r"C:\Dynamics365Commerce\D365-Data-Analysis\PurchaseOrderHeadersV2\PO_data.csv"
+csv_file_path = (
+    r"C:\Dynamics365Commerce\D365-Data-Analysis\PurchaseOrderHeadersV2\PO_data.csv"
+)
 df.to_csv(csv_file_path, index=False)
 
 # Display a message indicating the data has been saved
