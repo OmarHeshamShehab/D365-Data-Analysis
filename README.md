@@ -12,7 +12,7 @@ This section of the project demonstrates a proof of concept (PoC) aimed at analy
 
 > **Accuracy and Disclaimer**: This PoC achieves an accuracy of 1, primarily to showcase the functionality and integration of these components. The objective is not to provide a comprehensive or scalable solution but rather to validate the process from data access to EDA.
 
-### 2. D365 Data Analysis (`2-README.md`)
+### 2. CustomersV2 Data Analysis (`2-README.md`)
 
 This proof of concept focuses on integrating customer data from Dynamics 365 Commerce and applying machine learning for predictive analysis. The project has a well-defined pipeline, covering secure data retrieval, preprocessing, model training, and evaluation.
 
